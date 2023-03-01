@@ -1,0 +1,10 @@
+C:\Users\Hieu Nguyen\source\repos\HieuKhac_API\call_web_api\bin\Debug\call_web_api.exe.config
+C:\Users\Hieu Nguyen\source\repos\HieuKhac_API\call_web_api\bin\Debug\call_web_api.exe
+C:\Users\Hieu Nguyen\source\repos\HieuKhac_API\call_web_api\bin\Debug\call_web_api.pdb
+C:\Users\Hieu Nguyen\source\repos\HieuKhac_API\call_web_api\obj\Debug\call_web_api.Form1.resources
+C:\Users\Hieu Nguyen\source\repos\HieuKhac_API\call_web_api\obj\Debug\call_web_api.Properties.Resources.resources
+C:\Users\Hieu Nguyen\source\repos\HieuKhac_API\call_web_api\obj\Debug\call_web_api.csproj.GenerateResource.cache
+C:\Users\Hieu Nguyen\source\repos\HieuKhac_API\call_web_api\obj\Debug\call_web_api.csproj.CoreCompileInputs.cache
+C:\Users\Hieu Nguyen\source\repos\HieuKhac_API\call_web_api\obj\Debug\call_web_api.exe
+C:\Users\Hieu Nguyen\source\repos\HieuKhac_API\call_web_api\obj\Debug\call_web_api.pdb
+C:\Users\Hieu Nguyen\source\repos\HieuKhac_API\call_web_api\obj\Debug\call_web_api.csproj.AssemblyReference.cache
